@@ -1,4 +1,4 @@
-# Age and Gender detector internship tasks.
+# Data Science internship tasks.
 ## Set up and install.
 ### Prerequisites
 -Python 3.x
